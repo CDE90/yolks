@@ -283,6 +283,19 @@ is tagged correctly.
 * [`python3.13`](/python/3.13)
   * `ghcr.io/parkervcp/yolks:python_3.13`
 
+### [Python with uv](/python-uv)
+
+* [`python3.9-uv`](/python-uv/3.9)
+  * `ghcr.io/parkervcp/yolks:python-uv_3.9`
+* [`python3.10-uv`](/python-uv/3.10)
+  * `ghcr.io/parkervcp/yolks:python-uv_3.10`
+* [`python3.11-uv`](/python-uv/3.11)
+  * `ghcr.io/parkervcp/yolks:python-uv_3.11`
+* [`python3.12-uv`](/python-uv/3.12)
+  * `ghcr.io/parkervcp/yolks:python-uv_3.12`
+* [`python3.13-uv`](/python-uv/3.13)
+  * `ghcr.io/parkervcp/yolks:python-uv_3.13`
+
 ### [Redis](/redis)
 
   * [`Redis 5`](/redis/5)
